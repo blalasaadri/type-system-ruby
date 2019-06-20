@@ -1,0 +1,1 @@
+source $THEIA_WORKSPACE_ROOT/.gitpod.aliases

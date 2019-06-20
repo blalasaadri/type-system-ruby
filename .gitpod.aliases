@@ -1,0 +1,11 @@
+alias la='ls -A'
+alias lh='ls -h'
+alias ll='ls -l'
+alias ls='ls -G --color'
+
+alias build='bundle package'
+alias run='ruby $THEIA_WORKSPACE_ROOT/lib/main.rb'
+alias run-tests='ruby test/*.rb'
+alias clean='bundle clean'
+alias lint='echo "Not yet implemented"'
+alias repl='echo "Exit with exit" && irb'
