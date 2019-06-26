@@ -4,6 +4,8 @@ This repository is built to be opened in Gitpod.io.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/blalasaadri/type-system-ruby)
 
+*NOTE:* Since rubydoc uses the `doc` directory already, in this project the `What_to_do.md` file lies under `documentation/`.
+
 ## Available commands
 Once the Gitpod environment has started, you will have the following custom commands available:
 - `build` will package the current project (equivalent to `bundle package`)
