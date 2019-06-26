@@ -9,3 +9,4 @@ alias run-tests='bundle exec ruby -w -I.:test -e "ARGV.each{|f| require f}" test
 alias clean='bundle clean'
 alias lint='rubocop'
 alias repl='echo "Exit with exit" && irb'
+alias typecheck='bundle exec srb tc'
